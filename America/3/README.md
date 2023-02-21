@@ -31,6 +31,14 @@ In case you are wondering how I made the graph with inverse immigration, I subtr
 
 <a href="https://www2.census.gov/library/publications/decennial/1820/1820a-02.pdf">1820 Census</a>
 
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1820">1820 Election Results(1)</a>
+
+<a href="https://www.twm.news/us-history-the-election-of-1820-monroe-vs-monroe/">1820 Election Results(2)</a>
+
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1824">1824 Election Results(How did John Quincy Adams win? Search it up, the results just don't make sense.)</a>
+
+<a href="https://guides.loc.gov/presidential-election-1828#:~:text=In%20a%20highly%20contentious%20rematch,in%20the%201828%20presidential%20election.">1828 Election Results</a>
+
 <a href="https://www2.census.gov/library/publications/decennial/1830/1830b.pdf">1830 Census</a>
 
 <a href="https://www2.census.gov/library/publications/decennial/1850/1850d/1850d-02.pdf">1850 Census(1)</a>
