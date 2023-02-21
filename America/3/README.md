@@ -77,7 +77,7 @@ In case you are wondering how I made the graph with inverse immigration, I subtr
 
 <a href="https://www2.census.gov/library/publications/decennial/1880/vol-01-population/1880_v1-07.pdf">1880 Census</a>
 
-<a href="https://www.presidency.ucsb.edu/statistics/elections/1880">1880 Election Results</a>
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1880">1880 Election Results(Imagine a mathmatician becoming president)</a>
 
 <a href="https://www.presidency.ucsb.edu/statistics/elections/1884">1884 Election Results</a>
 
