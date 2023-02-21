@@ -105,7 +105,7 @@ In case you are wondering how I made the graph with inverse immigration, I subtr
 
 <a href="https://www.presidency.ucsb.edu/statistics/elections/1920">1920 Election Results(At least you tried to make up for how your predecessor bullied Latin America)</a>
 
-<a href="https://www.presidency.ucsb.edu/statistics/elections/1924">1924 Election Results(President doesn't have much interest in flood control ... flooding of the Mississippi leads to your poopularity tanking)</a>
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1924">1924 Election Results(President doesn't have much interest in flood control ... flooding of the Mississippi leads to his poopularity tanking)</a>
 
 <a href="https://www.presidency.ucsb.edu/statistics/elections/1920">1928 Election Results(Hoover... at the wrong place at the wrong time ... you should've been president earlier)</a>
 
