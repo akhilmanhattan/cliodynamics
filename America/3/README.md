@@ -81,9 +81,9 @@ In case you are wondering how I made the graph with inverse immigration, I subtr
 
 <a href="https://www.presidency.ucsb.edu/statistics/elections/1884">1884 Election Results</a>
 
-<a href="https://www.presidency.ucsb.edu/statistics/elections/1888">1888 Election Results(Garfield: Where is my second term?; Nostradamus: Just keep waiting...)</a>
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1888">1888 Election Results(Cleveland: Where is my second term?; Nostradamus: Just keep waiting...)</a>
 
-<a href="https://www.presidency.ucsb.edu/statistics/elections/1892">1892 Election Results(Garfield: You are so right Nostradamus; Third Parties: We will come back! Hopefully...)</a>
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1892">1892 Election Results(Cleveland: You are so right Nostradamus; Third Parties: We will come back! Hopefully...)</a>
 
 <a href="https://www.presidency.ucsb.edu/statistics/elections/1896">1896 Election Results(Imagine going to war against the country that formally colonized the America first)</a>
 
