@@ -45,7 +45,7 @@ In case you are wondering how I made the graph with inverse immigration, I subtr
 
 <a href="https://www.presidency.ucsb.edu/statistics/elections/1836">1836 Election Results</a>
 
-<a href="https://www.presidency.ucsb.edu/statistics/elections/1840">1840 Election Results(Imagine dying a month into your presidency)</a>
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1840">1840 Election Results</a>
 
 <a href="https://www.presidency.ucsb.edu/statistics/elections/1844">1844 Election Results</a>
 
