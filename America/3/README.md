@@ -55,6 +55,10 @@ In case you are wondering how I made the graph with inverse immigration, I subtr
 
 <a href="https://www2.census.gov/library/publications/decennial/1850/1850a/1850a-06.pdf">1850 Census(2)</a>
 
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1852">1852 Election Resutls</a>
+
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1856">1856 Election Results</a>
+
 <a href="https://www2.census.gov/library/publications/decennial/1860/population/1860a-02.pdf">1860 Census</a>
 
 <a href="https://www2.census.gov/library/publications/decennial/1870/population/1870a-28.pdf">1870 Census(1)</a>
