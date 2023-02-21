@@ -61,17 +61,53 @@ In case you are wondering how I made the graph with inverse immigration, I subtr
 
 <a href="https://www2.census.gov/library/publications/decennial/1860/population/1860a-02.pdf">1860 Census</a>
 
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1860">1860 Eleection Results</a>
+
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1864">1864 Election Results(Imagine one of the greatest presidents getting assasinated, and then succeded by one of the worst presdients: Abraham Lincoln and Andrew Johnson)</a>
+
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1868">1868 Election Results(At least someone made up for Johnson's ineptitude during Reconstruction)</a>
+
 <a href="https://www2.census.gov/library/publications/decennial/1870/population/1870a-28.pdf">1870 Census(1)</a>
 
 <a href="https://www2.census.gov/library/publications/decennial/1870/vital-statistics/1870b-31.pdf">1870 Census(2)</a>
 
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1872">1872 Election Results(When you think your second term will be as good as your first: nope!)</a>
+
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1876">1876 Election Results(At least Paraguay respects you and named a province after you)</a>
+
 <a href="https://www2.census.gov/library/publications/decennial/1880/vol-01-population/1880_v1-07.pdf">1880 Census</a>
+
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1880">1880 Election Results</a>
+
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1884">1884 Election Results</a>
+
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1888">1888 Election Results(Garfield: Where is my second term?; Nostradamus: Just keep waiting...)</a>
+
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1892">1892 Election Results(Garfield: You are so right Nostradamus; Third Parties: We will come back! Hopefully...</a>
+
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1896">1896 Election Results(Imagine going to war against the country that formally colonized the America first)</a>
 
 <a href="https://www2.census.gov/library/publications/decennial/1900/volume-1/volume-1-p3.pdf">1900 Census</a>
 
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1900">1900 Election Results(Imagine getting assasinated by an Anarchist, and then being succeded by one of the most well known American presidents)</a>
+
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1904">1904 Election Results(Imagine cuddling with a bear that was named after a president who refused to shoot a bear in 1902; I'm talking about the Teddy Bear that is named after Theodore Roosevelt)</a>
+
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1908">1908 Election Results(How do you get stuck in the bathtub Taft!)</a>
+
 <a href="https://www2.census.gov/library/publications/decennial/1910/volume-1/volume-1-p4.pdf">1910 Census</a>
 
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1912">1912 Election Results(Third Parties: So close!)</a>
+
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1916">1916 Election Results(President doesn't respond to a letter ... Vietnamese dude becomes a communist and causes Vietnam War)</a>
+
 <a href="https://www2.census.gov/library/publications/decennial/1920/volume-3/41084484v3ch01.pdf">1920 Census</a>
+
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1920">1920 Election Results(At least you tried to make up for how your predecessor bullied Latin America)</a>
+
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1924">1924 Election Results(President doesn't have much interest in flood control ... flooding of the Mississippi leads to your poopularity tanking)</a>
+
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1920">1928 Election Results(Hoover... at the wrong place at the wrong time ... you should've been president earlier)</a>
 
 <a href="https://www2.census.gov/library/publications/decennial/1930/population-volume-2/16440598v2ch10.pdf">1930 Census</a>
 
