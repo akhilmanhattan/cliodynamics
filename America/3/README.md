@@ -41,6 +41,16 @@ In case you are wondering how I made the graph with inverse immigration, I subtr
 
 <a href="https://www2.census.gov/library/publications/decennial/1830/1830b.pdf">1830 Census</a>
 
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1832">1832 Election Results</a>
+
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1836">1836 Election Results</a>
+
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1840">1840 Election Results(Imagine dying a month into your presidency)</a>
+
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1844">1844 Election</a>
+
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1848">1848 Election(Did Taylor die because of what he ate during July IV celebration?)</a>
+
 <a href="https://www2.census.gov/library/publications/decennial/1850/1850d/1850d-02.pdf">1850 Census(1)</a>
 
 <a href="https://www2.census.gov/library/publications/decennial/1850/1850a/1850a-06.pdf">1850 Census(2)</a>
