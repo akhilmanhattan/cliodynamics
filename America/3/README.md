@@ -93,7 +93,7 @@ In case you are wondering how I made the graph with inverse immigration, I subtr
 
 <a href="https://www.presidency.ucsb.edu/statistics/elections/1904">1904 Election Results(Imagine cuddling with a bear that was named after a president who refused to shoot a bear in 1902; I'm talking about the Teddy Bear that is named after Theodore Roosevelt)</a>
 
-<a href="https://www.presidency.ucsb.edu/statistics/elections/1908">1908 Election Results(How do you get stuck in the bathtub Taft!)</a>
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1908">1908 Election Results(How do you get stuck in the bathtub Taft?)</a>
 
 <a href="https://www2.census.gov/library/publications/decennial/1910/volume-1/volume-1-p4.pdf">1910 Census</a>
 
