@@ -31,11 +31,11 @@ In case you are wondering how I made the graph with inverse immigration, I subtr
 
 <a href="https://www2.census.gov/library/publications/decennial/1820/1820a-02.pdf">1820 Census</a>
 
-<a href="https://www.presidency.ucsb.edu/statistics/elections/1820">1820 Election Results(1)(So close to unanimous electoral vote!)</a>
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1820">1820 Election Results(1)</a>
 
-<a href="https://www.twm.news/us-history-the-election-of-1820-monroe-vs-monroe/">1820 Election Results(2)(So close to unanimous electoral vote!)</a>
+<a href="https://www.twm.news/us-history-the-election-of-1820-monroe-vs-monroe/">1820 Election Results(2)</a>
 
-<a href="https://www.presidency.ucsb.edu/statistics/elections/1824">1824 Election Results(How did John Quincy Adams win? Search it up, the results just don't make sense.)</a>
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1824">1824 Election Results</a>
 
 <a href="https://guides.loc.gov/presidential-election-1828#:~:text=In%20a%20highly%20contentious%20rematch,in%20the%201828%20presidential%20election.">1828 Election Results</a>
 
@@ -47,9 +47,9 @@ In case you are wondering how I made the graph with inverse immigration, I subtr
 
 <a href="https://www.presidency.ucsb.edu/statistics/elections/1840">1840 Election Results(Imagine dying a month into your presidency)</a>
 
-<a href="https://www.presidency.ucsb.edu/statistics/elections/1844">1844 Election</a>
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1844">1844 Election Results</a>
 
-<a href="https://www.presidency.ucsb.edu/statistics/elections/1848">1848 Election(Did Taylor die because of what he ate during July IV celebration?)</a>
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1848">1848 Election Results</a>
 
 <a href="https://www2.census.gov/library/publications/decennial/1850/1850d/1850d-02.pdf">1850 Census(1)</a>
 
@@ -63,60 +63,104 @@ In case you are wondering how I made the graph with inverse immigration, I subtr
 
 <a href="https://www.presidency.ucsb.edu/statistics/elections/1860">1860 Eleection Results</a>
 
-<a href="https://www.presidency.ucsb.edu/statistics/elections/1864">1864 Election Results(Imagine one of the greatest presidents getting assasinated, and then succeded by one of the worst presdients: Abraham Lincoln and Andrew Johnson)</a>
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1864">1864 Election Results</a>
 
-<a href="https://www.presidency.ucsb.edu/statistics/elections/1868">1868 Election Results(At least someone made up for Johnson's ineptitude during Reconstruction)</a>
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1868">1868 Election Results</a>
 
 <a href="https://www2.census.gov/library/publications/decennial/1870/population/1870a-28.pdf">1870 Census(1)</a>
 
 <a href="https://www2.census.gov/library/publications/decennial/1870/vital-statistics/1870b-31.pdf">1870 Census(2)</a>
 
-<a href="https://www.presidency.ucsb.edu/statistics/elections/1872">1872 Election Results(When you think your second term will be as good as your first: nope!)</a>
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1872">1872 Election Results</a>
 
-<a href="https://www.presidency.ucsb.edu/statistics/elections/1876">1876 Election Results(At least Paraguay respects you and named a province after you)</a>
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1876">1876 Election Results</a>
 
 <a href="https://www2.census.gov/library/publications/decennial/1880/vol-01-population/1880_v1-07.pdf">1880 Census</a>
 
-<a href="https://www.presidency.ucsb.edu/statistics/elections/1880">1880 Election Results(Imagine a mathmatician becoming president)</a>
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1880">1880 Election Results</a>
 
 <a href="https://www.presidency.ucsb.edu/statistics/elections/1884">1884 Election Results</a>
 
-<a href="https://www.presidency.ucsb.edu/statistics/elections/1888">1888 Election Results(Cleveland: Where is my second term?; Nostradamus: Just keep waiting...)</a>
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1888">1888 Election Results</a>
 
-<a href="https://www.presidency.ucsb.edu/statistics/elections/1892">1892 Election Results(Cleveland: You are so right Nostradamus; Third Parties: We will come back! Hopefully...)</a>
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1892">1892 Election Results</a>
 
-<a href="https://www.presidency.ucsb.edu/statistics/elections/1896">1896 Election Results(Imagine going to war against the country that formally colonized the America first)</a>
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1896">1896 Election Results</a>
 
 <a href="https://www2.census.gov/library/publications/decennial/1900/volume-1/volume-1-p3.pdf">1900 Census</a>
 
-<a href="https://www.presidency.ucsb.edu/statistics/elections/1900">1900 Election Results(Imagine getting assasinated by an Anarchist, and then being succeded by one of the most well known American presidents)</a>
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1900">1900 Election Results</a>
 
-<a href="https://www.presidency.ucsb.edu/statistics/elections/1904">1904 Election Results(Imagine cuddling with a bear that was named after a president who refused to shoot a bear in 1902; I'm talking about the Teddy Bear that is named after Theodore Roosevelt)</a>
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1904">1904 Election Results</a>
 
-<a href="https://www.presidency.ucsb.edu/statistics/elections/1908">1908 Election Results(How do you get stuck in the bathtub Taft?)</a>
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1908">1908 Election Results</a>
 
 <a href="https://www2.census.gov/library/publications/decennial/1910/volume-1/volume-1-p4.pdf">1910 Census</a>
 
-<a href="https://www.presidency.ucsb.edu/statistics/elections/1912">1912 Election Results(Third Parties: So close!)</a>
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1912">1912 Election Results</a>
 
-<a href="https://www.presidency.ucsb.edu/statistics/elections/1916">1916 Election Results(President doesn't respond to a letter ... Vietnamese dude becomes a communist and causes Vietnam War)</a>
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1916">1916 Election Results</a>
 
 <a href="https://www2.census.gov/library/publications/decennial/1920/volume-3/41084484v3ch01.pdf">1920 Census</a>
 
-<a href="https://www.presidency.ucsb.edu/statistics/elections/1920">1920 Election Results(At least you tried to make up for how your predecessor bullied Latin America)</a>
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1920">1920 Election Results</a>
 
-<a href="https://www.presidency.ucsb.edu/statistics/elections/1924">1924 Election Results(President doesn't have much interest in flood control ... flooding of the Mississippi leads to his poopularity tanking)</a>
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1924">1924 Election Results)</a>
 
-<a href="https://www.presidency.ucsb.edu/statistics/elections/1920">1928 Election Results(Hoover... at the wrong place at the wrong time ... you should've been president earlier)</a>
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1920">1928 Election Results</a>
 
 <a href="https://www2.census.gov/library/publications/decennial/1930/population-volume-2/16440598v2ch10.pdf">1930 Census</a>
 
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1932">1932 Election Results</a>
+
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1936">1936 Election Results</a>
+
 <a href="https://www2.census.gov/library/publications/decennial/1940/population-volume-2/33973538v2p1ch2.pdf">1940 Census</a>
+
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1940">1940 Election Results</a>
+
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1944">1944 Election Results</a>
+
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1948">1948 Election Results</a>
 
 <a href="https://www2.census.gov/library/publications/decennial/1950/population-volume-2/21983999v2p1ch3.pdf">1950 Census</a>
 
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1952">1952 Election Resutls</a>
+
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1956">1956 Election Results</a>
+
 <a href="https://www2.census.gov/prod2/statcomp/documents/1961-02.pdf">1960 Census</a>
 
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1960">1960 Election Results</a>
+
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1964">1964 Election Results</a>
+
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1968">1968 Election Results</a>
+
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1976">1976 Election Results</a>
+
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1980">1980 Election Results</a>
+
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1984">1984 Election Results</a>
+
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1988">1988 Election Results</a>
+
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1992">1992 Election Results</a>
+
+<a href="https://www.presidency.ucsb.edu/statistics/elections/1996">1996 Election Results</a>
+
+<a href="https://www.presidency.ucsb.edu/statistics/elections/2000">2000 Election Results</a>
+
 <a href="https://www.cdc.gov/nchs/data/statab/natfinal2003.annvol1_01.pdf">Birth Rate from 1909 to 2003</a>
+
+<a href="https://www.presidency.ucsb.edu/statistics/elections/2004">2004 Election Results</a>
+
+<a href="https://www.presidency.ucsb.edu/statistics/elections/2008">2008 Election Results</a>
+
+<a href="https://www.presidency.ucsb.edu/statistics/elections/2012">2012 Election Results</a>
+
+<a href="https://www.presidency.ucsb.edu/statistics/elections/2016">2016 Election Results</a>
+
+<a href="https://www.presidency.ucsb.edu/statistics/elections/2020">2020 Election Results</a>
 
 <a href="https://www.migrationpolicy.org/programs/data-hub/charts/immigrant-population-over-time">US Foreign Born Percentage from 1970 to 2020</a>
