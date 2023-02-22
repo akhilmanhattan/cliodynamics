@@ -164,3 +164,7 @@ In case you are wondering how I made the graph with inverse immigration, I subtr
 <a href="https://www.presidency.ucsb.edu/statistics/elections/2020">2020 Election Results</a>
 
 <a href="https://www.migrationpolicy.org/programs/data-hub/charts/immigrant-population-over-time">US Foreign Born Percentage from 1970 to 2020</a>
+
+<a href="https://cis.org/Report/ForeignBorn-Population-Hits-Nearly-48-Million-September-2022">2022 Foreign Born Percent</a>
+
+<a href="https://www.statista.com/statistics/195943/birth-rate-in-the-united-states-since-1990/#:~:text=Over%20the%20past%2030%20years,per%201%2C000%20of%20the%20population.">America Birth Rate from 1990 to 2020(Estimate for 2021 and 22)</a>
