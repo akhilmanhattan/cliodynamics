@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/48994987/221377337-a8b44d03-d507-49ad-860f-cce2f79e8df0.png)
+
 <h3 align="center">Sources</h3>
 
 <a href="https://www2.census.gov/library/publications/decennial/1820/1820a-02.pdf">1820 Census</a>
