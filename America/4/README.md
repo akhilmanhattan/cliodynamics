@@ -4,13 +4,13 @@
 
 <h3 align="center">Original Data</h3>
 
-<h1 align="center">Family</h1>
+<h5 align="center">Family</h1>
 
-<h1 align="center">Inverse Immigration</h1>
+<h5 align="center">Inverse Immigration</h1>
 
-<h1 align="center">Political Unity</h1>
+<h5 align="center">Political Unity</h1>
 
-<h1 align="center">Average</h1>
+<h5 align="center">Average</h1>
 
 <h3 align="center">Sources</h3>
 
