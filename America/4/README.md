@@ -1,4 +1,8 @@
+<hi align="center">Did anything change? Will there still be a civil war?</h1>
+
 ![image](https://user-images.githubusercontent.com/48994987/221377337-a8b44d03-d507-49ad-860f-cce2f79e8df0.png)
+
+<h3 align="center">Original Data</h3>
 
 <h3 align="center">Sources</h3>
 
