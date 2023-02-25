@@ -4,6 +4,14 @@
 
 <h3 align="center">Original Data</h3>
 
+<h1 align="center">Family</h1>
+
+<h1 align="center">Inverse Immigration</h1>
+
+<h1 align="center">Political Unity</h1>
+
+<h1 align="center">Average</h1>
+
 <h3 align="center">Sources</h3>
 
 <a href="https://www2.census.gov/library/publications/decennial/1820/1820a-02.pdf">1820 Census</a>
