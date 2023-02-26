@@ -4,13 +4,15 @@
 
 <h3 align="center">Original Data</h3>
 
-<h5 align="center">Family</h1>
+<h5 align="center">Family</h5>
 
-<h5 align="center">Inverse Immigration</h1>
+<p>As you probably already know, the Family metric is birth rates. However, I did make a couple of changes from last time. Instead of detrending the birth rates themselves, which required me to detrend every certain number of years(not the best way to create a model, but it wasn't too bad). This would be bad if I were doing this in the 1960s, as it would look like the 1960s weren't a great time to be alive(it was, unless you were in Vietnam). However, that would be innacurate as the 1960s did see decline in real standard of living(was it the fault of Great Society Reforms and Vietnam, or was it the Federal Reserve), it was just that it was a time of reform and low partisanship. We even reached the moon in the 60s, so the model with detrending birth rates, if made in the 60s, would be quite innacurate.
 
-<h5 align="center">Political Unity</h1>
+<h5 align="center">Inverse Immigration</h5>
 
-<h5 align="center">Average</h1>
+<h5 align="center">Political Unity</h5>
+
+<h5 align="center">Average</h5>
 
 <h3 align="center">Sources</h3>
 
