@@ -1,5 +1,7 @@
 <h1 align="center">So George Washington really was a hero!</h1>
 
+![image](https://user-images.githubusercontent.com/48994987/221447280-bf8b08b7-2ea1-482f-a0a2-9ff17b2a714c.png)
+
 <h3 align="center">Original Data</h3>
 
 <h5 align="center">Family</h5>
