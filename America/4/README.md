@@ -1,4 +1,4 @@
-<h1 align="center">So George Washington really is a hero!</h1>
+<h1 align="center">So George Washington really was a hero!</h1>
 
 <h3 align="center">Original Data</h3>
 
