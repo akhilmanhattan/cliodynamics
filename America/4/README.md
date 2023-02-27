@@ -12,6 +12,8 @@
 
 <h5 align="center">Average</h5>
 
+![image](https://user-images.githubusercontent.com/48994987/221447506-ed47b419-b7d9-4a3a-9c23-bae8ea8203ec.png)
+
 <h3 align="center">Sources</h3>
 
 <a href="https://www.presidency.ucsb.edu/statistics/elections/1789">1789 Election Results</a>
