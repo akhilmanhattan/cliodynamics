@@ -14,7 +14,7 @@
 
 <h5 align="center">Political Unity</h5>
 
-<he align="center">Wages</h5>
+<h5 align="center">Wages</h5>
 
 <p>Wages, the one thing that inspires us to work, unless you work for passion. Anyway, wages also come with bragging rights. For example, you earn more than your friend, people will make fun of them for it, like how a friend makes fun of your silly mustache you put on to make some children laugh(its like they get so angry that they quit, start their own business, and become a billionaire just to make you look like a poor person). Anyway, wages also have to do with political stress. For example, I am sure we all have our criticisms for each party, and a lot of us talk about how our wages did increase, but inflation erased it all(this is important for later). Because wages have remained nearly constant when accounting for inflation from the late 60s(at least for the median income), it has come with political stress. For example, you have probably heard the story where there is a child in their 20s who earned the same amount of money their father did when they were little, but their father could afford a lot more as the child is constantly bombarded with payments and has to take out debt in order to at best, keep their apartment and feed themselves, and maybe keep the lights on.</p>
 
