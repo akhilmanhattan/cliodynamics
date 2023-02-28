@@ -19,6 +19,7 @@
 ![image](https://user-images.githubusercontent.com/48994987/221447506-ed47b419-b7d9-4a3a-9c23-bae8ea8203ec.png)
 
 ![2844221350_8dcb069b85_c](https://user-images.githubusercontent.com/48994987/221722947-2ffca2a6-76e0-49a6-94ba-51200adf8610.jpg)
+
 <p style="color:black;font-size:8px;">"James Monroe, 5th US President, 1817-1825" by Tony Fischer Photography is licensed under CC BY 2.0.</p>
 
 <a href="https://en.wikipedia.org/wiki/List_of_incidents_of_civil_unrest_in_the_United_States">US' Civil Unrest from 1783</a>
