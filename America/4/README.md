@@ -18,7 +18,7 @@
 
 ![image](https://user-images.githubusercontent.com/48994987/221725795-d116e303-03e3-4bef-9461-39a0ec4238a6.png)
 
-![image](https://user-images.githubusercontent.com/48994987/221725603-c9278bac-31e0-4181-89d9-9ead52fe561f.png)
+![2844221350_8dcb069b85_w](https://user-images.githubusercontent.com/48994987/221725926-56909cdc-6f0d-4ebe-9d84-9bb4a4709175.jpg)
 
 <p>"James Monroe, 5th US President, 1817-1825" by Tony Fischer Photography is licensed under CC BY 2.0.</p>
 
