@@ -16,9 +16,9 @@
 
 <h5 align="center">Average</h5>
 
-![image](https://user-images.githubusercontent.com/48994987/221447506-ed47b419-b7d9-4a3a-9c23-bae8ea8203ec.png)
+![image](https://user-images.githubusercontent.com/48994987/221725603-c9278bac-31e0-4181-89d9-9ead52fe561f.png)
 
-![2844221350_8dcb069b85_c](https://user-images.githubusercontent.com/48994987/221722947-2ffca2a6-76e0-49a6-94ba-51200adf8610.jpg)
+![Uploading image.png…]()
 
 <p style="color:black;font-size:8px;">"James Monroe, 5th US President, 1817-1825" by Tony Fischer Photography is licensed under CC BY 2.0.</p>
 
