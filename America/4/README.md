@@ -1,3 +1,29 @@
+<h1 align="center">So George Washington really was a hero! Oh yeah, what about the civil war?</h1>
+
+![image](https://user-images.githubusercontent.com/48994987/221866747-b4b636df-1a2e-4563-bc9d-515fbe6772dd.png)
+
+<h3 align="center">Original Data</h3>
+
+<h5 align="center">Family</h5>
+
+<p>Business as usual in the family metric, except for the way I detrended the birth rates. The reason is because the family metric is based on birth rates, but not purely birth rates. It is actually the accumnulated birth rate growth year by year from the 1790 to the 2022 estimate. This has led to one advantage over the model from last time: there is no need to detrend at multiple times, meaning the model is more resillient and better represents what I am trying to communicate. For example, if I were making this model in the 60s, it would be a lot closer to how it is now if I used this method compared to the double detrend method I used last time. Anyway, another question to ask is why higher birth rates generally mean a greater standard of living.</p>
+
+</p>The reason higher birth rates generally mean a higher standard of living is because it is naturally human to want to spread one's genes, but when human factors get in the way(like terrible working conditions or long, grueling working hours), that hinders one's ability to have children. However, the birth rate has a tendency to decrease, so why? It could be because of increased urbanization, or the change in faith(faith is one of the main factors that correlate with a high fertility rate; so this, in a way, measures faith), but the birth rate has for the most aprt, trended downward. This means that the Baby Boomers' lives were way worse than those lived by the generation that lived through the Era of Good Feelings, which isn't true(at least if you ask most professionals), so I had to detrend, as urbanization and some other factor got in the way of comparing birth rates directly. Therefore, I had to resort to detrending, which actually gave me a better picture of how standards of living changed over time when discounting technological change.</p>
+
+<h5 align="center">Inverse Immigration</h5>
+
+<h5 align="center">Political Unity</h5>
+
+<h5 align="center">Average</h5>
+
+![image](https://user-images.githubusercontent.com/48994987/221866820-48ed56b5-34c8-47c7-9f88-0d530e4e9519.png)
+
+![2844221350_8dcb069b85_c](https://user-images.githubusercontent.com/48994987/221722947-2ffca2a6-76e0-49a6-94ba-51200adf8610.jpg)
+
+<p style="color:black;font-size:8px;">"James Monroe, 5th US President, 1817-1825" by Tony Fischer Photography is licensed under CC BY 2.0.</p>
+
+<a href="https://en.wikipedia.org/wiki/List_of_incidents_of_civil_unrest_in_the_United_States">US' Civil Unrest from 1783</a>
+
 <h3 align="center">Sources</h3>
 
 <a href="https://www.measuringworth.com/datasets/uscpi/result.php">CPI from 1789</a>
