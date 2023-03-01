@@ -1,6 +1,6 @@
 <h1 align="center">The ball is flying, its falling, and Washington gets Cornwallis out(Siege of Yorktown oversimplified)!</h1>
 
-![image](https://user-images.githubusercontent.com/48994987/222019170-627de597-3037-4e84-83e4-194c90a1c0c3.png)
+
 
 <h5 align="center">Family</h5>
 
@@ -12,7 +12,7 @@
 
 <h5 align="center">Average</h5>
 
-![image](https://user-images.githubusercontent.com/48994987/222201180-2f99e5b1-da57-4c2a-bf19-4dabec457669.png)
+![image](https://user-images.githubusercontent.com/48994987/222274133-f7f05809-f9b6-49ef-a12d-11e2b1e8d51b.png)
 
 <h3 align="center">Sources</h3>
 
