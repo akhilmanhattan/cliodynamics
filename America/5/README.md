@@ -2,6 +2,14 @@
 
 ![image](https://user-images.githubusercontent.com/48994987/222019170-627de597-3037-4e84-83e4-194c90a1c0c3.png)
 
+<h5 align="center">Family</h5>
+
+<h5 align="center">Inverse Immigration</h5>
+
+<h5 align="center">Political Unity</h5>
+
+<h5 align="center">Wages</h5>
+
 <h5 align="center">Average</h5>
 
 ![image](https://user-images.githubusercontent.com/48994987/222201180-2f99e5b1-da57-4c2a-bf19-4dabec457669.png)
