@@ -15,7 +15,7 @@
 <p>Immigration is a hotly debated topic in the political sphere. Just your response to the following question could be enough for people to "know"(of course I mean assume) which political party you follow. Below, I will put an example do demonstrate what I mean.</p>
 
     Me: Do you support immigration?
-    You: Its complicated.
+    You: It's complicated.
     Me: Aha! So you are a Republican. 
     You: No, I am a Democrat.
     Me: Your wrong!
