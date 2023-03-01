@@ -1,5 +1,7 @@
 <h1 align="center">The ball is flying, its falling, and Washington gets Cornwallis out(Siege of Yorktown oversimplified)!</h1>
 
+<h3 align="center">Original Data</h3>
+
 ![image](https://user-images.githubusercontent.com/48994987/222274335-cf5a8cd6-5674-4f97-839e-163b46b6d99c.png)
 
 <h5 align="center">Family</h5>
@@ -19,6 +21,8 @@
 <a href="https://www.eriesd.org/site/handlers/filedownload.ashx?moduleinstanceid=28819&dataid=43463&FileName=Patriots%20and%20Loyalists%20HW.pdf">Patriot Percentage</a>
 
 <a href="https://www.measuringworth.com/datasets/uscpi/result.php">CPI from 1779</a>
+
+<a href="https://bensguide.gpo.gov/j-states-ratification?highlight=WyJjb25zdGl0dXRpb24iLCJjb25zdGl0dXRpb24ncyJd#:~:text=New%20Hampshire%3A%20June%2021%2C%201788,North%20Carolina%3A%20November%2021%2C%201789">Acceptance of Constitution Timeline by State</a>
 
 <a href="https://www.measuringworth.com/datasets/uswage/result.php">Hourly Worker Compensation from 1790(1779-1789 are estimates, used them for growth statistic)</a>
 
