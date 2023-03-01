@@ -1,3 +1,7 @@
+<h1 align="center">The ball is flying, its falling, and Washington gets Cornwallis out(Siege of Yorktown oversimplified)!</h1>
+
+![image](https://user-images.githubusercontent.com/48994987/222019170-627de597-3037-4e84-83e4-194c90a1c0c3.png)
+
 <h3 align="center">Sources</h3>
 
 <a href="https://www.eriesd.org/site/handlers/filedownload.ashx?moduleinstanceid=28819&dataid=43463&FileName=Patriots%20and%20Loyalists%20HW.pdf">Patriot Percentage</a>
