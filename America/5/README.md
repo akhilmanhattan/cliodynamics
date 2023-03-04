@@ -16,6 +16,10 @@
 
 ![image](https://user-images.githubusercontent.com/48994987/222925876-fb7b54b4-9ddc-47f8-84eb-61228b84291f.png)
 
+![image](https://user-images.githubusercontent.com/48994987/222929507-9f4db266-5253-4a87-942c-faa4d08370d9.png)
+
+<p>Source: Wikipedia</p>
+
 <h3 align="center">Sources</h3>
 
 <a href="https://www.eriesd.org/site/handlers/filedownload.ashx?moduleinstanceid=28819&dataid=43463&FileName=Patriots%20and%20Loyalists%20HW.pdf">Patriot Percentage</a>
