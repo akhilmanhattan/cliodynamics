@@ -18,7 +18,10 @@
 
 ![image](https://user-images.githubusercontent.com/48994987/222929507-9f4db266-5253-4a87-942c-faa4d08370d9.png)
 
-<p>Source: Wikipedia(just for captions)</p>
+    Source: Wikipedia(just for captions)
+    Inspiration: Peter Turchin(his graph is different, just got inspired by captions to make above image; below is link)
+    http://peterturchin.com/cliodynamica/strange-disappearance/
+    (you will have to scroll a little bit)
 
 <h3 align="center">Sources</h3>
 
