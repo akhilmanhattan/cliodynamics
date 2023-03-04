@@ -18,7 +18,7 @@
 
 ![image](https://user-images.githubusercontent.com/48994987/222929507-9f4db266-5253-4a87-942c-faa4d08370d9.png)
 
-<p>Source: Wikipedia</p>
+<p>Source: Wikipedia(just for captions)</p>
 
 <h3 align="center">Sources</h3>
 
