@@ -20,6 +20,7 @@
 
     Source: Wikipedia(just for captions)
     Inspiration: Peter Turchin(his graph is different, just got inspired by captions to make above image; below is link)
+    note: PAX AMERICANA refers to 1991-2008, not from 1945(PAX AMERICANA is meant to refer to America's unchallenged power)
     http://peterturchin.com/cliodynamica/strange-disappearance/
     (you will have to scroll a little bit)
 
