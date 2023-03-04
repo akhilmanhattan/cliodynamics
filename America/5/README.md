@@ -2,7 +2,7 @@
 
 <h3 align="center">Original Data</h3>
 
-![image](https://user-images.githubusercontent.com/48994987/222274335-cf5a8cd6-5674-4f97-839e-163b46b6d99c.png)
+![image](https://user-images.githubusercontent.com/48994987/222925868-0382755f-5868-4737-bf39-855499abb73e.png)
 
 <h5 align="center">Family</h5>
 
@@ -14,7 +14,7 @@
 
 <h5 align="center">Average</h5>
 
-![image](https://user-images.githubusercontent.com/48994987/222274133-f7f05809-f9b6-49ef-a12d-11e2b1e8d51b.png)
+![image](https://user-images.githubusercontent.com/48994987/222925876-fb7b54b4-9ddc-47f8-84eb-61228b84291f.png)
 
 <h3 align="center">Sources</h3>
 
