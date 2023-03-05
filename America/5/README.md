@@ -16,7 +16,7 @@
 
 ![image](https://user-images.githubusercontent.com/48994987/222925876-fb7b54b4-9ddc-47f8-84eb-61228b84291f.png)
 
-![image](https://user-images.githubusercontent.com/48994987/222977173-40159d21-5f4e-4406-adb1-35b506dbd445.png)
+![true](https://user-images.githubusercontent.com/48994987/222981220-49479a00-6d65-449e-93fe-074e67773dc7.png)
 
     Source: Wikipedia(just for captions)
     Inspiration: Peter Turchin(his graph is different, just got inspired by captions to make above image; below is link)
