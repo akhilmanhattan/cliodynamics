@@ -15,6 +15,8 @@
         
         Also, this is not an anti-refugee rant. What I am mainly talking about is mostly low skilled 
         labor coming to America en masse and increasing competition for employment en masse.
+        
+<a href="https://www.urban.org/urban-wire/immigrant-and-native-workers-compete-different-low-skilled-jobs">Labor Competition</a>
 
 <h5 align="center">Political Unity</h5>
 
