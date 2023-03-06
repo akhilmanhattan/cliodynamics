@@ -8,15 +8,34 @@
 
 <h5 align="center">Inverse Immigration</h5>
 
-<p>As you probably know already, Inverse Immigration is 100 - Foreign Born, or the native born population as a percentage of a total population. As you know, I have been making the case for immigration being one facet of political instability. But first, let me just say that immigration alone cannot determine social crises. Look at 1780, where there was a literal revolution, there was low immigration then. What about the Whiskey Rebellion of the Early Republic, it was also low then. Nullification Crisis in 1832? Immigration was low then as well. Immigration leading to competition is still a factor that has been shown in the modern times and during the Gilded Age, but it is not the only factor in political instability.</p>
+<p>As you probably know already, Inverse Immigration is 100 - Foreign Born, or the native born population as a percentage of a total population. As you know, I have been making the case for immigration being one facet of political instability. But first, let me just say that immigration alone cannot determine social crises. Look at 1780, where there was a literal revolution, there was low immigration then. What about the Whiskey Rebellion of the Early Republic, it was also low then. Nullification Crisis in 1832? Immigration was low then as well. Immigration leading to competition is still a factor that has been shown in the modern times and during the Gilded Age, but it is not the only factor in political instability. Or is it?</p>
 
         So, as you can probably infer, passing anti-immigrant legislation will not be the only thing 
         that needs to be done in order to lead America into a new "Era of Good Feelings.
         
         Also, this is not an anti-refugee rant. What I am mainly talking about is mostly low skilled 
-        labor coming to America en masse and increasing competition for employment en masse.
+        labor coming to America en masse and increasing competition for employment en masse. But
+        this is mostly from illegal immigration(Peter Turchin's link that I referred to previously
+        is mostly about illegal immigraiton)
         
-<a href="https://www.urban.org/urban-wire/immigrant-and-native-workers-compete-different-low-skilled-jobs">Labor Competition</a>
+        Actually, the type of jobs immigrants work matter more, as it may not hurt jobs as it
+        supplies jobs that the workforce doesn't provide at large. But you could make the case
+        that the workers don't win as the employers don't have to ask for higher wages
+        to get people to work for their company.
+        
+        If someone says immigration is vital for certain jobs, I wouldn't necessarily disagree
+        with them, as they are correct. In a world of mass globalization, having jobs to export
+        products matters, so all I would say is "pick your poison".
+        
+<p>Previously, I have been horribly inspecific on the specifics, which is why I try to elaborate my point as much as possible. However, one issue with the lack of immigration I have not discussed is the economy of certain sectors grinding to a halt. When I was talking about excessive immigration being bad for wages, that was mostly from a viewpoint on the time when the workforce wasn't as diversified. However, with a diverse(not culturally, but in terms of range of careers) workforce, just shutting off immigration could lead to vast economic changes that we would have to undergo(to my credit, the part about the wages is somewhat true, but I never talked about the economy as a whole). The argument about wages is deeper than just immigration(explain why it was so low during the American Revolution), but there is a certain amount of causation, its just less of an effect today(still exists, but there are other issues that affect wages even more) compared to the 19th and 20th centuries. However, with the AI revolution starting(ChatGPT: Industrial Revolution = Anti-Immigration sentiment), could the part about immigration being bad for wages like it was in the 20th century start to come true.</p>
+
+        I mean if you think about it, the supply and demand argument immigration wise holds in a world
+        where labor is more replacable. With the AI revolution coming, labor could be more replacable 
+        and so the supply and demand argument might actually get more valid as time goes on. 
+        
+<a href="https://www.politico.com/magazine/story/2016/09/trump-clinton-immigration-economy-unemployment-jobs-214216/">Immigration Hurting Wages</a>
+
+<a href="https://www.urban.org/urban-wire/immigrant-and-native-workers-compete-different-low-skilled-jobs">Immigration Doesn't Hurt Jobs</a>
 
 <h5 align="center">Political Unity</h5>
 
