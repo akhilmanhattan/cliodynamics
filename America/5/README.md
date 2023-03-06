@@ -14,14 +14,14 @@
         that needs to be done in order to lead America into a new "Era of Good Feelings.
         
         Also, this is not an anti-refugee rant. What I am mainly talking about is mostly low skilled 
-        labor coming to America en masse and increasing competition for employment en masse. But
+        labor coming to America en masse and increasing competition for low skill employment. But
         this is mostly from illegal immigration(Peter Turchin's link that I referred to previously
-        is mostly about illegal immigraiton)
+        is mostly about illegal immigraiton).
         
-        Actually, the type of jobs immigrants work matter more, as it may not hurt jobs as it
-        supplies jobs that the workforce doesn't provide at large. But you could make the case
-        that the workers don't win as the employers don't have to ask for higher wages
-        to get people to work for their company.
+        Actually, the type of jobs immigrants work matter more, as it may not hurt jobs as it definently
+        supplies jobs that the native workforce doesn't provide at large. But you could make the case
+        that the workers don't win as the employers don't have to ask for higher wages to get people to
+        work for their company.
         
         If someone says immigration is vital for certain jobs, I wouldn't necessarily disagree
         with them, as they are correct. In a world of mass globalization, having jobs to export
