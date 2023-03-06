@@ -24,8 +24,9 @@
         work for their company.
         
         If someone says immigration is vital for certain jobs, I wouldn't necessarily disagree
-        with them, as they are correct. In a world of mass globalization, having jobs to export
-        products matters, so all I would say is "pick your poison".
+        with them, as they are correct. In a world of mass globalization, having domestic jobs
+        to support domestic needs matters(like construction), as it can help other parts of the
+        workforce to focus on exports or services.
         
 <p>Previously, I have been horribly inspecific on the specifics, which is why I try to elaborate my point as much as possible. However, one issue with the lack of immigration I have not discussed is the economy of certain sectors grinding to a halt. When I was talking about excessive immigration being bad for wages, that was mostly from a viewpoint on the time when the workforce wasn't as diversified. However, with a diverse(not culturally, but in terms of range of careers) workforce, just shutting off immigration could lead to vast economic changes that we would have to undergo(to my credit, the part about the wages is somewhat true, but I never talked about the economy as a whole). The argument about wages is deeper than just immigration(explain why it was so low during the American Revolution), but there is a certain amount of causation, its just less of an effect today(still exists, but there are other issues that affect wages even more) compared to the 19th and 20th centuries. However, with the AI revolution starting(ChatGPT: Industrial Revolution = Anti-Immigration sentiment), could the part about immigration being bad for wages like it was in the 20th century start to come true.</p>
 
