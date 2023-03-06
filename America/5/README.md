@@ -6,6 +6,17 @@
 
 <h5 align="center">Family</h5>
 
+<p>As you know from reading the last post(if you did), the Family metric was created by detrending the YoY growth rates of the birth rates, and then smoothing it out to "iron the line"(like a shirt). Anyway, I also said that the Family metric can be viewed as measuring two things: religiousness(of the birthing generation) and confidence in the future. The 50s was a time of high religousness compared to the 20s and 60s, which is why birth rates were comparatively higher in the 50s. Also, the 20s and 60s were literally known for their revolt against tradition with the outfits and slogans(to be fair, underepresented groups got their representation with women in the 20s and African Americans in the 60s with civil rights, but some might debate that). However, birth rates can possibly be skewed by a large generation, bu thats not too bad as a large generation entering their 20s can restart the economy with their size(a world without Reagan).</p>
+
+<p>For now, I would just like to stick to the part where we look at religiousness of birthing generation and confidence in the future. Since the Millenials are having babies now, we can see their birth rates and examine that generation. When looking at the birth rate, it becomes clear that there is either litle confidence, or the millenials aren't as religious. Taking a deeper look, both are true. Millenials are less religious(in terms of church attendance) when you compare them to other generation(statistically looking at it). Millenials also have little confidence in the future with them starting families later and marrying at later ages. While birth rates have decreased over time, even when detrending, one can still see that low birth rates are present with the detrending. To conclude, I have given further links to research and gain insignt if you are interested.</p>
+
+        To be fair, the low birth rates might be due to the work culture and
+        how expensive things like education are.
+        
+<a href="https://www.pewresearch.org/social-trends/2019/02/14/millennial-life-how-young-adulthood-today-compares-with-prior-generations-2/">Pew Research Center on Millenials</a>
+        
+<a href="https://www.pewresearch.org/religion/2010/02/17/religion-among-the-millennials/">Millenials and Religion Pew Research Center</a>
+
 <h5 align="center">Inverse Immigration</h5>
 
 <p>As you probably know already, Inverse Immigration is 100 - Foreign Born, or the native born population as a percentage of a total population. As you know, I have been making the case for immigration being one facet of political instability. But first, let me just say that immigration alone cannot determine social crises. Look at 1780, where there was a literal revolution, there was low immigration then. What about the Whiskey Rebellion of the Early Republic, it was also low then. Nullification Crisis in 1832? Immigration was low then as well. Immigration leading to competition is still a factor that has been shown in the modern times and during the Gilded Age, but it is not the only factor in political instability. Or is it?</p>
