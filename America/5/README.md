@@ -8,6 +8,12 @@
 
 <h5 align="center">Inverse Immigration</h5>
 
+<p>As you probably know already, Inverse Immigration is 100 - Foreign Born, or the native born population as a percentage of a total population. As you know, I have been making the case for immigration being one facet of political instability. But first, let me just say that immigration alone cannot determine social crises. Look at 1780, where there was a literal revolution, there was low immigration then. What about the Whiskey Rebellion of the Early Republic, it was also low then. Nullification Crisis in 1832? Immigration was low then as well. Immigration leading to competition is still a factor that has been shown in the modern times and during the Gilded Age, but it is not the only factor in political instability.</p>
+
+        So, as you can probably infer, passing anti-immigrant legislation will not be the only thing that needs to be done in order to lead America into a new "Era of Good Feelings.
+        
+        Also, this is not an anti-refugee rant. What I am mainly talking about is mostly low skilled labor coming to America en masse and increasing competition for employment en masse.
+
 <h5 align="center">Political Unity</h5>
 
 <h5 align="center">Wages</h5>
