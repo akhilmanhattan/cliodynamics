@@ -18,7 +18,7 @@
         this is mostly from illegal immigration(Peter Turchin's link that I referred to previously
         is mostly about illegal immigraiton).
         
-        Actually, the type of jobs immigrants work matter more, as it may not hurt jobs as it definently
+        Actually, the types of jobs immigrants work matter more, as it may not hurt jobs as it definently
         supplies jobs that the native workforce doesn't provide at large. But you could make the case
         that the workers don't win as the employers don't have to ask for higher wages to get people to
         work for their company.
