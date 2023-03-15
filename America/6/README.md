@@ -1,4 +1,4 @@
-<title align="center">Finally, a "battle tested" model!</title>
+<title>Finally, a "battle tested" model!</title>
 
 <h1>Original Data</h1>
 
